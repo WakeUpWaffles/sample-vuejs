@@ -1,1 +1,6 @@
 @import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
+
+.border{
+    width: 100%;
+    height: 100%;
+}
