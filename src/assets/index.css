@@ -4,3 +4,19 @@
     width: 100%;
     height: 100%;
 }
+
+.btn-large-blue{
+    width: 200px;
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+
+    background: #47D8E0;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.btn-large-blue:hover{
+    box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.3);
+}
