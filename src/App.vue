@@ -1,13 +1,11 @@
 <template>
-<div> 
-  <border></border>
-</div>
+  <navbar></navbar>
 </template>
 
 <script>
-import border from './components/border.vue';
+import navbar from './components/NavBar.vue';
 export default {
-  components: { border },
+  components: { navbar },
   name: "App",
 };
 </script>
